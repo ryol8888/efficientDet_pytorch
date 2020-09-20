@@ -1,5 +1,5 @@
 # EfficientNet
-https://arxiv.org/abs/1905.11946
+https://arxiv.org/abs/1911.09070
 
 ## Repo
 A pytorch of implementation efficientDet
